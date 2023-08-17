@@ -1,1 +1,1 @@
-# Joint-PnF
+# Joint Permute-and-Flip
