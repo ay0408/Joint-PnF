@@ -1,7 +1,7 @@
 # Joint Permute-and-Flip
 This contains Python codes and supplemental results of our experiments on accuracy, rank error, and run time of our Joint Permute-and-Flip mechanism. 
 
-In this study, we also proposed pseudo-SHD scores and new score function for joint approach suitable for genomic statistical analysis. 
+In this study, we also proposed pseudo-SHD scores and new score function for the "joint" approach suitable for genomic statistical analysis. 
 
 The procedure to generate simulation data for our experiments can be found in "SimulationData" folder.
 
