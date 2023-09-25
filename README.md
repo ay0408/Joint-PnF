@@ -5,7 +5,7 @@ In this study, we also proposed pseudo-SHD scores and new score function for the
 
 The procedure to generate simulation data for our experiments can be found in SimulationData folder.
 
-In RunTime folder, we provide supplemental results for the cases where $K=1$, $5$, and $7$, in addition to the results when $K = 3$ shown in the paper. These results indicate that our method becomes more desirable than the normal exponential mechanism as $K$ increases.  
+In RunTime folder, we provide supplemental results for the cases where $K=1$, $5$, and $7$, in addition to the results for $K = 3$ shown in the paper. These results indicate that our method becomes more desirable than the normal exponential mechanism as $K$ increases.  
 Furthermore, we provide the results on computing our pseudo-SHD scores for $\chi^2$-statistics and TDT statistics and demonstrate their efficiency.
 
 Coupled with the results on accuracy and rank error, our Joint Permute-and-Flip can be advisable for publishing the top $K$ significant SNPs in large-scale genomic statistical analysis.
