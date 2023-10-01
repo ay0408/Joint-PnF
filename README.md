@@ -15,7 +15,9 @@ Coupled with the results on accuracy and rank error, our Joint Permute-and-Flip 
 
 ・In addition to the previous viewpoint, in genomic statistical analysis, we believe that it is also important and essential to provide a collective implication of $K$ outputs by a "joint" approach. In this study, we proposed a "joint" score that aims to extract a set of SNPs in which even the worst element has a high rank, as an example. 
 
-・Based on the above considerations, the experiments in this study focused on evaluating the usefulness of Joint Permute-and-Flip, with the exception of the simple permute-and-flip.
+・Based on the above considerations, the experiments in the main paper focused on evaluating the usefulness of Joint Permute-and-Flip, with the exception of the simple permute-and-flip.
+
+・For reference, we provide supplemental results on accuracy and rank error of the simple and Joint Permute-and-Flip mechiansms in the corresponding folders. The results show that "joint" approach can increase the quality of the top $K$ outputs. (Please note that when $K = 1$, these two mechanisms are identical.)
 
 ## Possible Future Directions
 ・Conducting a theoretical analysis of the output accuracy of various "Joint" Permute-and-Flip mechanisms. (The accuracy is likely to vary depending on how the "joint" score is generated (and the feature of the dataset).)
