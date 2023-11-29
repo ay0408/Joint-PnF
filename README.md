@@ -19,7 +19,7 @@ Coupled with the results on accuracy and rank error, our Joint Permute-and-Flip 
 
 ・For reference, we provide supplemental results on accuracy and rank error of the simple and Joint Permute-and-Flip mechiansms in the corresponding folders. The results show that "joint" approach can increase the quality of the top $K$ outputs. (Please note that when $K = 1$, these two mechanisms are identical.)
 
-(・In Algorithm 2 for the simple permute-and-Flip, we should break the for loop in step 8.)
+(・In Algorithm 2 for the simple Permute-and-Flip, break the for loop in step 8.)
 
 ## Possible Future Directions
 ・Conducting a theoretical analysis of the output accuracy of various "Joint" Permute-and-Flip mechanisms. (The accuracy is likely to vary depending on how the "joint" score is generated (and the feature of the dataset).)
