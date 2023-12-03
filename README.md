@@ -28,7 +28,7 @@ Coupled with the results on accuracy and rank error, our Joint Permute-and-Flip 
 
 ## Note
 
-For details of our methods and discussion, please see our paper entitled "A Joint Permute-and-Flip and Its Enhancement for Large-Scale Genomic Statistical Analysis" (to appear at TrustKDD at IEEE ICDM 2023).
+For details of our methods and discussion, please see our paper entitled "A Joint Permute-and-Flip and Its Enhancement for Large-Scale Genomic Statistical Analysis" presented at TrustKDD at IEEE ICDM 2023.
 
 ### Contact
 Akito Yamamoto
