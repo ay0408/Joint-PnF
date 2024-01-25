@@ -21,7 +21,7 @@ Coupled with the results on accuracy and rank error, our Joint Permute-and-Flip 
 
 (・In Algorithm 2 for releasing the top $K$ elements using the simple Permute-and-Flip, break the for loop in step 8.)
 
-・In our experiments and discussion on $\chi^2$-statistics based on a $2 \times 2$ contingency table, we consider ${\it neighboring}$ datasets as two datasets that differ only by one or two alleles in the table. This is because when one individual in the dataset varies, at most two alleles' information varies.
+・In our experiments and discussion on $\chi^2$-statistics based on a $2 \times 2$ contingency table, for the sake of simplicity, we consider ${\it neighboring}$ datasets as two datasets that differ only by one or two alleles in the table. This is because when one individual in the dataset varies, at most two alleles' information varies.
 
 ## Possible Future Directions
 ・Conducting a theoretical analysis of the output accuracy of various "Joint" Permute-and-Flip mechanisms. (The accuracy is likely to vary depending on how the "joint" score is generated (and the feature of the dataset).)
